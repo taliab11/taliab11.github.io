@@ -4,9 +4,8 @@ title: Home Page
 ---
 
 ## Introduction
-Hi, my name is Talia, I'm a master's student at the [WIS](https://www.weizmann.ac.il/pages/), currently doing my lab rotations. 
-My current rotation is in Yaron Antebi's lab, which researches how cells communicate with each other during cell fate determination processes in development and the immune system. 
-[Lab Webpage](https://www.weizmann.ac.il/molgen/Antebi/)
+Hi, my name is Talia. I'm a master's student at the [Weizmann Institute of Science (WIS)](https://www.weizmann.ac.il/pages/), currently completing my lab rotations. 
+My current rotation is in Yaron Antebi's lab, which studies how cells communicate with each other during cell fate determination processes in development and the immune system. If you're interested, you're welcome to read more on the [lab's Webpage](https://www.weizmann.ac.il/molgen/Antebi/).
 
 ## Background
 I recently completed my undergraduate degree in Biomedical Sciences at The Hebrew University, specializing in Genetics and Genomics.
@@ -17,7 +16,7 @@ I enjoy baking, reading, traveling, learning new things and spending time with f
 ![](/CV_photo_full.jpeg)
 
 ## Say Hi!
-If you are intrested in my work or have any questions, don't hesitate to reach out at talia.baer@weizmann.ac.il
+If you are interested in my work or have any questions, feel free to reach out at talia.baer@weizmann.ac.il
 
 ## WIS python programming course
-I've builded this webpage as part of [szabgab's](https://szabgab.com/) Python programming course.
+I've created this webpage as part of [szabgab's](https://szabgab.com/) Python programming course.
