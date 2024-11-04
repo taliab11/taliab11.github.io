@@ -14,7 +14,7 @@ I recently completed my undergraduate degree in Biomedical Sciences at The Hebre
 ## Outside the Lab
 I enjoy baking, reading, traveling, learning new things and spending time with friends and family.
 
-![](/CV photo full.jpeg)
+![](/CV_photo_full.jpeg)
 
 ## Say Hi!
 If you are intrested in my work or have any questions, don't hesitate to reach out at talia.baer@weizmann.ac.il
