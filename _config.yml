@@ -1,0 +1,14 @@
+title: "Talia's GitHub"
+description: "MSc Student | WIS."
+cover_image: 
+
+plugins:
+  - jekyll-include-cache
+
+remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: mint
+
+include:
+  - website_text.md
+  - README.md # If you want to make sure README.md is processed
