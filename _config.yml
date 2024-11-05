@@ -1,5 +1,6 @@
 title: "Talia's GitHub"
 description: "MSc Student | WIS"
+cover_image: ''
 
 plugins:
   - jekyll-include-cache
