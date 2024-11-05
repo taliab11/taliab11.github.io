@@ -1,5 +1,5 @@
 title: "Talia's GitHub"
-description: "MSc Student | WIS."
+description: "MSc Student | WIS"
 cover_image: 
 
 plugins:
@@ -9,6 +9,11 @@ remote_theme: mmistakes/minimal-mistakes
 
 minimal_mistakes_skin: mint
 
+author:
+  name   : "Talia Baer"
+  avatar : "CV_photo.jpg"
+  bio    : "MSc Student | WIS"
+  
 include:
   - website_text.md
   - README.md # If you want to make sure README.md is processed
