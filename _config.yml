@@ -2,6 +2,11 @@ title: "Talia's GitHub"
 description: "MSc Student | WIS"
 cover_image: ''
 
+author:
+  name: "Talia Baer"
+  avatar: "CV_photo_small.jpg"
+  bio: "MSc Student | WIS"
+  
 plugins:
   - jekyll-include-cache
 
@@ -9,11 +14,6 @@ remote_theme: mmistakes/minimal-mistakes
 
 minimal_mistakes_skin: mint
 
-author:
-  name: "Talia Baer"
-  avatar: "CV_photo_small.jpg"
-  bio: "MSc Student | WIS"
-  
 include:
   - website_text.md
   - README.md # If you want to make sure README.md is processed
