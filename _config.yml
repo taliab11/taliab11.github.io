@@ -1,18 +1,6 @@
-remote_theme: mmistakes/minimal-mistakes
-
-minimal_mistakes_skin: mint
-
-title: "Talia's GitHub"
-description: "MSc Student | WIS"
-
-author:
-  name: "Talia Baer"
-  avatar: "CV_photo_small.jpg"
-  bio: "MSc Student | WIS"
-
-include:
-  - website_text.md
-  - README.md # If you want to make sure README.md is processed
-  
-plugins:
-  - jekyll-include-cache
+theme: jekyll-theme-minimal
+title: Talia Baer
+title_align: center
+description: MSc Student | WIS
+show_downloads: false
+logo: /CV_photo_full_small.jpg
