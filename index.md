@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Home Page
+author:
+  name: "Talia Baer"
+  avatar: "CV_photo_small.jpg"
+  bio: "MSc Student | WIS"
 ---
 
 ## Introduction
